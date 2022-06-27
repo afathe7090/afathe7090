@@ -19,5 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afathe7090&show_icons=true&theme=merko&locale=en&layout=compact" alt="afathe7090" /></p>
 
+<p></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afathe7090&show_icons=true&theme=dark&locale=en" alt="afathe7090" /></p>
 
