@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **afathe7090@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RnoglOzk-7R6LjtldUsfo9w0y6E28yUe/view?usp=sharing](https://drive.google.com/file/d/1RnoglOzk-7R6LjtldUsfo9w0y6E28yUe/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RnoglOzk-7R6LjtldUsfo9w0y6E28yUe/view?usp=sharing](https://drive.google.com/file/d/13v5K6IwntbMZ7N44B2ATJ91ILZt8ZMqC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
