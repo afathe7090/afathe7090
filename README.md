@@ -9,13 +9,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-fathe-37b6231b6/" target="blank">
+<a href="[https://linkedin.com/in/ahmed-fathe-37b6231b6/](https://www.linkedin.com/in/ahmed-fathy-37b6231b6/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-fathe-37b6231b6/" height="30" width="40" />
 </a>
-<a href="https://fb.com/ahmed.fathe.731135/" target="blank">
+<a href="[https://fb.com/ahmed.fathe.731135/](https://www.facebook.com/ahmed.fathe.731135)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.fathe.731135/" height="30" width="40" />
 </a>
 </p>
+<a href="https://www.youtube.com/@ahmedfathe9411" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
+</a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
