@@ -42,6 +42,4 @@ Currently building **[1Pass](https://1pass.app/)** — a fitness platform connec
 
 ---
 
-### GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=afathe7090&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+<sub>Open to iOS roles and freelance — feel free to reach out.</sub>
